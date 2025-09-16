@@ -5,9 +5,9 @@
 
 ## My Github stats
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=tinymonster123
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tinymonster123)](https://git.io/streak-stats)
 
-https://github-readme-streak-stats.herokuapp.com/?user=tinymonster123
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinymonster123)](https://github.com/tinymonster123/github-readme-stats)
 
 ## Stacks
 #### Keep Learning
