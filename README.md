@@ -17,5 +17,5 @@
 
 #### Keep Using
 <div>
-<img src="https://skillicons.dev/icons?i=typescript,python,nodejs,react,vue,nestjs,vite,webpack,tailwind,docker,postgresql,mysql,nginx,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=typescript,python,nodejs,nextjs,react,vue,nestjs,vite,webpack,tailwind,docker,postgresql,mysql,nginx,git&theme=dark" />
 </div>
