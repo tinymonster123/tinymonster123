@@ -1,7 +1,8 @@
 ### Hi there 👋 
 ### This is tinymonster123!
 
-- 🔭 Used to work in AI Startup,keep curiosity with AI APPlication UI/UX design
+- Used to work in AI Startup,keep curiosity with AI APPlication UI/UX design
+- Now I work in MiniMax,still keep curiosity with AI APPlication UI/UX design
 
 ## My Github stats
 
